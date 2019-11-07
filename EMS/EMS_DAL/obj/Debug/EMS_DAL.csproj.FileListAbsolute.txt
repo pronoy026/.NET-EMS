@@ -1,0 +1,5 @@
+C:\Users\Hp\source\repos\EMS\EMS_DAL\bin\Debug\EMS_DAL.dll
+C:\Users\Hp\source\repos\EMS\EMS_DAL\bin\Debug\EMS_DAL.pdb
+C:\Users\Hp\source\repos\EMS\EMS_DAL\obj\Debug\EMS_DAL.dll
+C:\Users\Hp\source\repos\EMS\EMS_DAL\obj\Debug\EMS_DAL.pdb
+C:\Users\Hp\source\repos\EMS\EMS_DAL\obj\Debug\EMS_DAL.csprojAssemblyReference.cache
